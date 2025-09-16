@@ -1,5 +1,5 @@
 <h1>🗄️ Deploying SQL Database in Azure</h1>  
-<p>A hands-on lab using Microsoft Azure to create and configure a cloud-based SQL Database. This is part one of a multi-part series on working with Azure SQL.</p>  
+<p>A hands-on lab using Microsoft Azure to create and configure a cloud-based SQL Database.</p>  
 
 <h1>🧠 Overview</h1>  
 <p>In this guide, you’ll deploy a fully managed SQL Database in Azure. You’ll create a resource group, configure a logical SQL server, set up a database, configure networking/firewall rules, and test connectivity from a client machine.</p>  
