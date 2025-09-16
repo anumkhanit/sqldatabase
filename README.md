@@ -12,8 +12,8 @@
 
 <h2>Operating Systems to use</h2>
 
-- macOS Sonoma (if you own MacBook Air M1 or M2; version doesn’t matter)
-- Windows 10 or Windows 11 Home/Pro (if you own either of them)
+- macOS Sonoma ***(if you own MacBook Air M1 or M2; version doesn’t matter)***
+- Windows 10 or Windows 11 Home/Pro ***(if you own either of them)***
 
 -----
 
